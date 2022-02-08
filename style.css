@@ -1,10 +1,21 @@
 body{
     margin: 0;
     padding: 0;
+    border: 0;
+    text-align: justify;
 }
 .container{
     text-align: right;
     margin-top: 360px;
+    width: 80%;
+    margin: 0 auto;
+    overflow: auto;
+    clear:both
+}
+p{
+    font-family: 'Arial';
+    font-weight: bold;
+    text-align: justify;
 }
 .btn{
     border: 1px solid #0080FF;
